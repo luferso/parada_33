@@ -1,0 +1,13 @@
+body{
+    background-color: #483d8b;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: 2px dashed #000;
+}
+
+.cor_01{
+    background-color: #fa8072;
+}
